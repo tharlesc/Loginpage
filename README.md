@@ -7,5 +7,5 @@ Projeto pessoal para treinamento, as tecnologias utilizadas foram HTML e CSS.
 
 ## Demonstração
 
-![demostração](\assets\capturademostracao.png)
+![demostração](assets/capturademostracao.png)
 
